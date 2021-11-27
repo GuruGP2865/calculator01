@@ -6,13 +6,19 @@
   font-weight: normal;
 }
 
+/*
 body {
   margin: 0;
   padding: 0;
   background: linear-gradient(to right, rgb(19, 5, 99), rgb(7, 206, 233));
 }
+*/
 
-/* comment test */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, rgb(99, 5, 25), rgb(7, 206, 233));
+}
 
 .calculator-grid {
   display: grid;
